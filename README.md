@@ -1,6 +1,6 @@
 <h2>Microsoft DAT101x: Introduction to Data Science</h2>
 <p>This is my progress of the first 
-  <a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT201x+1T2018a/course/">Edx Microsoft Course</a> of 
+  <a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+1T2018a/course/">Edx Microsoft Course</a> of 
   <a href="https://www.edx.org/microsoft-professional-program-data-science">Microsoft Professional Program in Data Science</a>
 </p>
 <hr>
